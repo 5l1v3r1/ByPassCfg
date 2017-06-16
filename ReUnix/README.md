@@ -1,5 +1,3 @@
-# PoC for CVE-request
-
 # Stack-based buffer overflow can exploit the ld-2.23.so lib located /lib/x86_64-linux-gnu at the Linux kernel, to allow local users to cause a denial of service (system crash) or possibly gain privileges, due to user flags assertion failure at The vsyscall and vDSO segments. 
 <br>
 #    Tested on:<br>
@@ -99,5 +97,7 @@ at The end of edb log we have noticed a direct invoke msg from the ld-2.23.so:<b
 ![](before.png)
 ![](after.png)
   
-
+# NOTES
+    for the windows version please refer to 
+<html><a href="https://github.com/kukuriku/UniversalDanielOfService/tree/master/ReWin">linux</a></html>
 
