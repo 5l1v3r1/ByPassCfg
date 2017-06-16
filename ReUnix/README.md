@@ -99,5 +99,5 @@ at The end of edb log we have noticed a direct invoke msg from the ld-2.23.so:<b
   
 # NOTES
     for the windows version please refer to 
-<html><a href="https://github.com/kukuriku/UniversalDanielOfService/tree/master/ReWin">linux</a></html>
+<html><a href="https://github.com/kukuriku/ByPassCfg/tree/master/ReWin">linux</a></html>
 
