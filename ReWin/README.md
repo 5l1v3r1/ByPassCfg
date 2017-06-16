@@ -73,6 +73,10 @@ Macro component is a macro component that bundles the components that are requir
    one can utilize this Technique to execute any arbitrary assembly.<br>
    <br>
    i strongly advise you to look carefully at the documents attached.
+   
+# [Poc] -> Run bsd.exe (compiled without cfg), or alternatively run bss.exe (compiled with cfg),
+![](pic/compiler.jpg)
+![](pic/gr.jpg)
 
 # external links:
 <html><a href="http://windows10dll.nirsoft.net/apphelp_dll.html">apphelp.dll</a></html><br>
