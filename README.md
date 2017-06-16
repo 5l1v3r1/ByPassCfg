@@ -1,1 +1,1 @@
-
+# this repo contains various techniques and reverse analysis of the intel processor architecture exploitation, this includes a PoC for a cve request and both a windows and a linux version. in addition a syscall tables and usfull links are provided in addition to the exploit itself in the bin directorys.
