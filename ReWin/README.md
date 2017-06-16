@@ -66,7 +66,11 @@ Macro component is a macro component that bundles the components that are requir
     for the linux version please refer to 
 <html><a href="https://github.com/kukuriku/UniversalDanielOfService/tree/master/ReUnix">linux</a></html>
     
-
+# addendum
+   at The end of the day the MS CFG did take action & tried to terminate The payload, but becouse the linking<br>
+   is maid dynamiclly at a 'java-like' style, Most of The fundamental instruction to the kernel,<br>
+   were build before Run time, and included error and defected instruction set. leading to a system failure.<br>
+   one can utilize this Technique to execute any arbitrary assembly.<br>
 
 # external links:
 <html><a href="http://windows10dll.nirsoft.net/apphelp_dll.html">apphelp.dll</a></html><br>
