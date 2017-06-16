@@ -71,6 +71,8 @@ Macro component is a macro component that bundles the components that are requir
    is maid dynamiclly at a 'java-like' style, Most of The fundamental instruction to the kernel,<br>
    were build before Run time, and included error and defected instruction set. leading to a system failure.<br>
    one can utilize this Technique to execute any arbitrary assembly.<br>
+   <br>
+   i strongly advise you to look carefully at the documents attached.
 
 # external links:
 <html><a href="http://windows10dll.nirsoft.net/apphelp_dll.html">apphelp.dll</a></html><br>
