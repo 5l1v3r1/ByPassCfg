@@ -64,12 +64,13 @@ Macro component is a macro component that bundles the components that are requir
 
 # NOTES
     for the linux version please refer to 
-<html><a href="https://github.com/kukuriku/PoC-for-CVE-request">linux</a></html>
+<html><a href="https://github.com/kukuriku/UniversalDanielOfService/tree/master/ReUnix">linux</a></html>
     
 
 
 # external links:
 <html><a href="http://windows10dll.nirsoft.net/apphelp_dll.html">apphelp.dll</a></html><br>
 <html><a href="http://www.52pojie.cn/thread-161284-1-1.html">ntdll debug sys call</a></html><br>
-<html><a href="https://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FError%2FNtRaiseHardError.html">undocumented nt_api</a></html>
+<html><a href="https://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FError%2FNtRaiseHardError.html">undocumented nt_api</a></html><br>
+<html><a href="https://msdn.microsoft.com/en-us/library/610ecb4h.aspx">compiler</a></html>
 
